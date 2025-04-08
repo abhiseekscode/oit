@@ -1,3 +1,13 @@
+1)you are developing a smart home system that allows users to control lights, thermosats and door locks remotely . Design a system architecture ,including hardware componnents ,communication protocols and software components to achieve this functionality .
+consider security and scalability .
+Programming focus: MQTT, REST APIs ,database design ,device management. 
+
+
+Implement a  python script that reads temperature and humidity data from a sensor ,stores it in a database,and send an alert to a user's phone if the temperature exceeds a certain threshold 
+programming focus: pyhton ,sensors libraries ,database interaction (eg SQLite ,MySQL),mqtt
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
 #sensor.py
 
 import sqlite3
