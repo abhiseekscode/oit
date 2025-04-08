@@ -1,12 +1,8 @@
-Scenario 3: smart city
-ESP32
-DHT11/DHT22 Sensor
-MQ135 Gas Sensor
-Sound Sensor Module
-LDR Sensor
-Jumper Wire
-Breadboard
---------------------------------------------------------------------
+4)Smart city 
+question :
+Design an iot system for managing trafiic flow in a smart city ,including real-time monitoring of traffic conditions ,optimizing teaffic lights and providing real time information to drivers
+programming Focus : Sensor (eg video cameras ,radar),communication protocols (eg: 5g)
+--------------------------------------------------------------------------------------
 code:
 
 #include <WiFi.h>
